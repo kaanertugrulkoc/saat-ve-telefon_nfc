@@ -135,11 +135,21 @@ Trailer: Key A (6B) + Access Bits (4B) + Key B (6B)
 - 3 çalışma modu
 - Akıllı saat optimizasyonu
 
-- 
+**Not**: Bu uygulama eğitim ve test amaçlıdır. Gerçek kart sistemlerinde kullanmadan önce gerekli testleri yapın.
+
+
 ## 📱 Ekran Görüntüleri
 
 - Gelişmiş NFC kit entegrasyonu
 
 ---
+![image](https://github.com/user-attachments/assets/cfb77217-f245-4af9-8f90-e853ec92a626) 
+![image](https://github.com/user-attachments/assets/e6aed3cb-b05c-4328-b6c7-4799039dc4c3)
+![image](https://github.com/user-attachments/assets/97c21217-7262-4cb7-b424-622da24d6cfd) ![image](https://github.com/user-attachments/assets/b1457c43-27c1-4acd-8b03-2c6288050603)
+![image](https://github.com/user-attachments/assets/8ee41bd1-9925-4433-95bf-9d7c86fa68c7) ![image](https://github.com/user-attachments/assets/cb3ed530-a18a-4796-886e-777f5fe7cff4)
 
-**Not**: Bu uygulama eğitim ve test amaçlıdır. Gerçek kart sistemlerinde kullanmadan önce gerekli testleri yapın.
+
+
+
+
+
