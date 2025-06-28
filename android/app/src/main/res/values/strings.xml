@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_name">NFC Emülatör HCE Servisi</string>
+    <string name="payment_group">Ödeme Kartları</string>
+    <string name="other_group">Diğer Kartlar</string>
+</resources> 
