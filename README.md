@@ -34,11 +34,6 @@ Flutter ile geliştirilmiş gelişmiş NFC emülatör uygulaması. Mifare Classi
 
 ## 🚀 Kurulum
 
-1. **Repository'yi klonlayın:**
-```bash
-git clone https://github.com/kullaniciadi/mifare-nfc-emulator.git
-cd mifare-nfc-emulator
-```
 
 2. **Bağımlılıkları yükleyin:**
 ```bash
@@ -82,8 +77,6 @@ APK dosyası `build/app/outputs/flutter-apk/app-release.apk` konumunda oluşturu
 2. "Başlat" butonuna basın
 3. Yazılacak NFC kartını telefona yaklaştırın
 4. Kart numarası kartın üzerine yazılır
-
-## 📱 Ekran Görüntüleri
 
 ### Ana Ekran
 - Durum kartı (NFC hazır/değil)
@@ -141,6 +134,10 @@ Trailer: Key A (6B) + Access Bits (4B) + Key B (6B)
 - Mifare Classic emülasyonu
 - 3 çalışma modu
 - Akıllı saat optimizasyonu
+
+- 
+## 📱 Ekran Görüntüleri
+
 - Gelişmiş NFC kit entegrasyonu
 
 ---
