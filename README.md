@@ -124,9 +124,6 @@ Trailer: Key A (6B) + Access Bits (4B) + Key B (6B)
 - NDEF (NFC Data Exchange Format)
 - Host Card Emulation (HCE)
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
 ## ⚠️ Uyarılar
 
