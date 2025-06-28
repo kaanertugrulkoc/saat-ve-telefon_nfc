@@ -149,15 +149,6 @@ Trailer: Key A (6B) + Access Bits (4B) + Key B (6B)
 ![image](https://github.com/user-attachments/assets/8ee41bd1-9925-4433-95bf-9d7c86fa68c7) ![image](https://github.com/user-attachments/assets/cb3ed530-a18a-4796-886e-777f5fe7cff4)
 
 
-<img width="100" alt="Image" src="https://github.com/user-attachments/assets/17ff9202-39b1-42c1-9eac-b694799d7eb2" />
-
-![Image](https://github.com/user-attachments/assets/46ef043f-d347-4b2f-bccc-111806bba2a0)
-
-![Image](https://github.com/user-attachments/assets/419281a7-cbb2-4ab0-bd7c-cb3d6060e310)
-
-![Image](https://github.com/user-attachments/assets/8b421c98-7dc9-4d74-8799-f2bdffcae420)
-
-![Image](https://github.com/user-attachments/assets/37283011-ae6f-478c-bfd4-ff9f688d0703)
 
 
 
