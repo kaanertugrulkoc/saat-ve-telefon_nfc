@@ -1,4 +1,4 @@
-# Mifare Classic NFC Emülatör
+# Telefon ve Saat için NFC Emülatör
 
 Flutter ile geliştirilmiş gelişmiş NFC emülatör uygulaması. Mifare Classic kartlarını emüle edebilir, okuyabilir ve yazabilir.
 
