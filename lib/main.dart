@@ -761,7 +761,7 @@ class _MifareClassicEmulatorPageState extends State<MifareClassicEmulatorPage> {
                     Icon(Icons.info_outline, color: Colors.blue, size: 16),
                     SizedBox(height: 4),
                     Text(
-                      'Mifare Classic NFC Emülatörü\nEmülatör, Okuyucu ve Yazıcı modları',
+                      'Mifare Classic NFC Emülatörü\nEmülatör, Okuyucu ve Yazıcı modları\nSelahattinKOÇ\nkaanertugrulkoc',
                       textAlign: TextAlign.center,
                       style: TextStyle(fontSize: 10, color: Colors.white70),
                     ),
