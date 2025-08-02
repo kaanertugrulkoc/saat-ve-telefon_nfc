@@ -142,6 +142,18 @@ Trailer: Key A (6B) + Access Bits (4B) + Key B (6B)
 
 - Gelişmiş NFC kit entegrasyonu
 
+# Hakkımda
+
+Yazılım, mekanik ve elektronik alanlarına tutkuyla bağlı bir teknoloji meraklısıyım. Yazılım dünyasında, 
+özellikle gömülü sistemler ve IoT projeleri üzerine çalışıyorum; C, Python ve Arduino gibi platformlarla 
+yenilikçi çözümler üretmeyi seviyorum. Mekanik alanda, 3D tasarım ve prototipleme ile uğraşıyorum; CAD yazılımlarıyla 
+karmaşık mekanizmalar tasarlayarak fikirleri hayata geçiriyorum. Elektronik ise benim için devre tasarımı ve sensör 
+entegrasyonuyla dolu bir oyun alanı; mikrodenetleyiciler ve PCB tasarımlarıyla projelerimi güçlendiriyorum. Disiplinler 
+arası çalışmalara olan ilgim, bu alanları birleştirerek robotik ve otomasyon projelerinde yaratıcı çözümler geliştirmemi 
+sağlıyor. Boş zamanlarımda yeni teknolojileri keşfetmek, açık kaynak projelere katkıda bulunmak ve makerspace topluluklarında bilgi paylaşmak en büyük keyfim!
+
+
+
 ---
 ![image](https://github.com/user-attachments/assets/cfb77217-f245-4af9-8f90-e853ec92a626) 
 ![image](https://github.com/user-attachments/assets/e6aed3cb-b05c-4328-b6c7-4799039dc4c3)
